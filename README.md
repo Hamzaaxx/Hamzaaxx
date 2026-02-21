@@ -1,6 +1,37 @@
-# 💫 About Me:
-Hi, I'm Hamza  <br>💻 Software Engineer | Problem Solver | Tech Enthusiast<br><br>🔧 I build web apps, scripts, and tools using:<br>- 💡 JavaScript / TypeScript<br>- 🐍 Python<br>- 🌐 HTML, CSS, React<br>- 🐳 Docker, Linux, Git<br><br>🚀 Passionate about open-source, clean code, and continuous learning.  <br>🌍 Currently working on personal projects & sharpening my full-stack skills.
+## 👋 About Me
 
+Hi, I'm Hamza  
+
+💻 Computer Science Student | Web Developer | Cybersecurity Enthusiast  
+🎯 Seeking Internship in Web Development or Cybersecurity  
+
+---
+
+### 🚀 What I Do
+- 🌐 Build modern web applications (React, JS, HTML, CSS)
+- 🔐 Learn and practice Cybersecurity & CTF challenges
+- 🧠 Exploring Artificial Intelligence fundamentals
+- ⚙️ Work with Linux, Git, Docker
+
+---
+
+### 🛠 Tech Stack
+- 💡 JavaScript / TypeScript  
+- 🐍 Python  
+- ⚡ C / C++  
+- 🗄 SQL (Learning & Improving)  
+- ⚛ React  
+
+---
+
+### 📚 Currently
+- Sharpening Full-Stack skills  
+- Practicing Web Security & CTFs  
+- Building projects to land my first internship  
+
+---
+
+⚡ Passionate about clean code, security, and continuous improvement.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamza__bez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-belazri-4ba462331) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamzabelazri00@gmail.com) 
